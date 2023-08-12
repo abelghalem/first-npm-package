@@ -1,5 +1,5 @@
 ---
-"color-theme-tester": patch
+"first-npm-package": patch
 ---
 
 add new "add" method

@@ -1,5 +1,5 @@
 {
-  "name": "color-theme-tester",
+  "name": "first-npm-package",
   "version": "0.0.1",
   "description": "This is my first ever package published to npm. Its only purpose is testing npm package development.",
   "main": "dist/index.js",

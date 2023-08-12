@@ -14,6 +14,9 @@
     "first-package",
     "test-package"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "abelghalem",
   "license": "MIT",
   "devDependencies": {

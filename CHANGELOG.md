@@ -1,4 +1,4 @@
-# first-npm-package
+# @abelghalem/first-npm-package
 
 ## 0.0.2
 

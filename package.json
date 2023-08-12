@@ -1,0 +1,23 @@
+{
+  "name": "color-theme-tester",
+  "version": "0.0.1",
+  "description": "This is my first ever package published to npm. Its only purpose is testing npm package development.",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsup src/index.ts --format cjs,esm --dts",
+    "lint": "tsc"
+  },
+  "keywords": [
+    "first-package",
+    "test-package"
+  ],
+  "author": "abelghalem",
+  "license": "MIT",
+  "devDependencies": {
+    "@changesets/cli": "^2.26.2",
+    "tsup": "^7.2.0",
+    "typescript": "^5.1.6"
+  }
+}
